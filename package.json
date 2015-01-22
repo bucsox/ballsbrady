@@ -1,0 +1,40 @@
+{
+  "name": "bradys-balls",
+  "description": "Funny quotes from Tom Brady about his 'balls'",
+  "version": "1.0.0",
+  "author": "Mike Stecker <mike@stecker.me>",
+  "license": "MIT",
+
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "tom-brady",
+    "bradys-balls"
+  ],
+
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikestecker/bradys-balls.git"
+  },
+
+  "bugs": {
+    "url": "https://github.com/mikestecker/bradys-balls/issues"
+  },
+
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chai": "*",
+    "sinon": "*"
+  },
+
+  "main": "index.coffee",
+
+  "scripts": {
+    "test": "script/test"
+  }
+}
