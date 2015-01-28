@@ -14,11 +14,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/mikestecker/bradys-balls.git"
+    "url": "git://github.com/mikestecker/ballsbrady.git"
   },
 
   "bugs": {
-    "url": "https://github.com/mikestecker/bradys-balls/issues"
+    "url": "https://github.com/mikestecker/ballsbrady/issues"
   },
 
   "dependencies": {
