@@ -7,11 +7,11 @@ A Hubot script with funny quotes from Tom Brady about his 'balls'. Quotes taken 
 In your project directory, run the following:
 
 ```bash
-npm install bradys-balls --save
+npm install ballsbrady --save
 ```
 
-Then add `bradys-balls` to `external-scripts.json`, e.g.
+Then add `ballsbrady` to `external-scripts.json`, e.g.
 
 ```
-["bradys-balls"]
+["ballsbrady"]
 ```
