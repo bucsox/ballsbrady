@@ -1,4 +1,4 @@
-# Brady's Balls
+# BallsBrady
 
 A Hubot script with funny quotes from Tom Brady about his 'balls'. Quotes taken from: http://mashable.com/2015/01/22/tom-bradys-balls/
 
